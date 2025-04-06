@@ -17,7 +17,7 @@ const NavBar: React.FC = () => {
       <div className="container mx-auto px-4 py-3">
         <div className="flex items-center justify-between">
           <Link to="/" className="flex items-center space-x-2">
-            <span className="font-bold text-2xl gradient-text">MeOne</span>
+            <span className="font-bold text-2xl gradient-text">MeOne by Avanish</span>
           </Link>
           
           {/* Desktop navigation */}

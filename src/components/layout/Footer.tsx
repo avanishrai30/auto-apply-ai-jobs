@@ -44,6 +44,7 @@ const Footer: React.FC = () => {
         
         <div className="border-t border-border mt-8 pt-6 text-center text-sm text-muted-foreground">
           <p>© {new Date().getFullYear()} MeOne. All rights reserved.</p>
+          <p className="mt-2">Made by <a href="https://avanishrai.in" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">avanishrai.in</a></p>
         </div>
       </div>
     </footer>
